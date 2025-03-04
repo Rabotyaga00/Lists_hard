@@ -1,0 +1,2 @@
+User{id=1, name='qwerty', email='@qweerty'}
+User{id=2, name='qwerty2', email='@qweerty2'}
